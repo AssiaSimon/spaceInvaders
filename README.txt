@@ -27,7 +27,7 @@ ______________ Environnement de développement:
 ______________ Arborescence du projet:
 
 
-quiz-pokemon/ 
+spaceInvaders/ 
 │ 
 ├── SpaceInvaders.py 
 ├── alien.gif 
