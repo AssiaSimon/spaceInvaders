@@ -1,4 +1,4 @@
-______________ Projet: 
+# Projet: 
 
 Ce projet consiste à développer un jeu Space Invaders en Python avec une interface graphique réalisée avec la bibliothèque Tkinter.
 
@@ -15,7 +15,7 @@ Le jeu comprend notamment :
 	
 	
 
-______________ Environnement de développement:
+# Environnement de développement:
 
 
 	- Python : : langage utilisé pour développer le jeu.
@@ -24,7 +24,7 @@ ______________ Environnement de développement:
 
 
 
-______________ Arborescence du projet:
+# Arborescence du projet:
 
 
 spaceInvaders/ 
@@ -37,7 +37,7 @@ spaceInvaders/
 
 
 
-______________ Documentation:
+# Documentation:
 
 
 Pour une présentation plus détaillée du projet, de son fonctionnement et de son architecture, veuillez consulter la documentation du projet au format PDF.  
