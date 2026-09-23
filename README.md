@@ -27,13 +27,13 @@ Le jeu comprend notamment :
 # Arborescence du projet:
 
 
-spaceInvaders/ 
-│ 
-├── SpaceInvaders.py 
-├── alien.gif 
-├── lesScores.json 
-├── documentation.pdf
-└── README.txt
+	spaceInvaders/ 
+	│ 
+	├── SpaceInvaders.py 
+	├── alien.gif 
+	├── lesScores.json 
+	├── documentation.pdf
+	└── README.md
 
 
 
